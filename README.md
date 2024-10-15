@@ -1,5 +1,5 @@
 # 💫 About Me:
-👩🏻‍💻 I’m currently working as a survey programmer at Bright Marketing Research<br>🎓 Currently a final year student at Technical University Sofia as <br>📓👩🏻‍💻💡 I’m currently learning Next.js<br>🏎️ Fun fact I am a huge car guy
+👩🏻‍💻 I’m currently working as a survey programmer at Bright Marketing Research<br>🎓 Currently a final year student at Technical University Sofia <br>📓👩🏻‍💻💡 I’m currently learning Next.js<br>🏎️ Fun fact I am a huge car guy
 
 
 ## 🌐 Socials:
